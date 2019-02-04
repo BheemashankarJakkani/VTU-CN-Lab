@@ -1,0 +1,12 @@
+TitleText: ESS
+XUnitText: No of nodes
+YUnitText: Throughput values
+
+06	0.556632
+10	0.420463	
+15	0.459200
+20	0.362105
+25	0.421726
+30	0.464842
+35	0.542737
+
